@@ -1,4 +1,5 @@
 # Poem_Segmentation
+Poem segnmentaion is the processes of dividing the poem into different paragraghs based on their similarities and emotional changes. The purpose of performing this was to help the reader to understand the change in the emotion of the poem 
 
 Preprocessing function is designed to perform tokenization on the poem. It transforms the poem text in to a list of lines 
 The function uses poem.split('\n') to split the entire poem into individual lines based on the newline character (\n). This results in a list of lines.
